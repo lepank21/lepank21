@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Abi Hidayat
 - 👀 I’m interested in php programing with Code Igniter Framework
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abidhidayat@student.ub.ac.id
 
 <!---
