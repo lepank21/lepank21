@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abi Hidayat
+- 👋 Hi, I’m Abid Hidayat
 - 👀 I’m interested in php programing with Code Igniter Framework
 - 📫 How to reach me abidhidayat@student.ub.ac.id
 
